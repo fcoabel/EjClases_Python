@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Ej_Empresa.iml" filepath="$PROJECT_DIR$/.idea/Ej_Empresa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Ej_Polígonos/.idea/Ej_Polígonos.iml" filepath="$PROJECT_DIR$/../Ej_Polígonos/.idea/Ej_Polígonos.iml" />
+    </modules>
+  </component>
+</project>
